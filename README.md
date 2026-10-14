@@ -1,1 +1,1 @@
-# easycart-ecommerce
+# Easycart-ecommerce
