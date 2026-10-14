@@ -1,16 +1,28 @@
-# React + Vite
+🚀 **Excited to Share My React.js Project – EasyCart E-Commerce Website!** 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm happy to share my latest project, **EasyCart**, a responsive e-commerce website built using React.js, JavaScript, HTML, and CSS.
 
-Currently, two official plugins are available:
+💻 **Project Features:**
+🔹 Responsive and user-friendly UI  
+🔹 Product search functionality  
+🔹 Category-based product filtering  
+🔹 Add-to-cart functionality  
+🔹 Dynamic cart item count  
+🔹 Mobile-friendly design  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🛠️ **Technologies Used:**  
+React.js | JavaScript | HTML5 | CSS3 | Vite
 
-## React Compiler
+🌐 **Live Demo:**  
+https://easycart-ecommerce.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💻 **GitHub Repository:**  
+https://github.com/sriharini252004-dev/easycart-ecommerce
 
-## Expanding the ESLint configuration
+Through this project, I improved my understanding of React components, state management using `useState`, search functionality, and responsive web design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I'm looking forward to learning more, building new projects, and growing as a **Frontend Developer**. 🚀
+
+I'd love to hear your feedback and suggestions!
+
+#ReactJS #FrontendDevelopment #JavaScript #WebDevelopment #ReactProjects #CSS #LearningJourney #WomenInTech
